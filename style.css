@@ -1,0 +1,18 @@
+.primera{
+    background-color: rgb(175, 134, 97);
+    border: 1px solid rgb(175, 134, 97);        
+    border-width: 20px 10px 20px 10px;
+            font-family: sans-serif;
+            margin-left: 50px;
+            display: flex;
+            text-align: center;
+            justify-content: center;
+}
+
+.loscinco{
+
+    justify-content: flex-end;
+    display: flex;
+    padding-bottom: 1px;
+    padding-top: 1px;
+}
